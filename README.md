@@ -19,7 +19,7 @@ This repository contains two interconnected applications designed to facilitate 
   The second technology, located in the "sign language" folder, is designed for text-to-sign conversion. The "grid2.py" file within this folder contains the 
   executable Python script.This application takes text as input and converts it into Indian Sign Language, making it easier for deaf individuals to understand 
   spoken or written communication. By translating text into sign language gestures, this tool empowers deaf users to engage in conversations and interactions 
-  more seamlessly.
+  more seamlessly.<br />
   You can find the executable file here-<br />
      https://github.com/rasagnya09/PRAVAAH-HACKATHON/blob/main/signlanguage/grid2.py   <br />
   
