@@ -2,7 +2,7 @@
 This repository contains two interconnected applications designed to facilitate communication between sign language users and non-sign language users. The first application focuses on recognizing hand gestures and converting them to text or speech, while the second application takes text input and converts it to gestures in Indian Sign Language (ISL).
 # HANDGESTURE RECOGNITION
   Features of HandGesture Recognition part:
-    -- Real-time hand gesture recognition
+    -- Real-time hand gesture recognition <br />
     -- Translation of gestures into text
     -- Option to convert text to speech
     -- User-friendly interface for ease of use
